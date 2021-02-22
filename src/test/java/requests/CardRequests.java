@@ -117,7 +117,7 @@ public class CardRequests {
                     .request()
                     .queryParam("key", Access.KEY)
                     .queryParam("token", Access.TOKEN)
-                    .queryParam("name", "BRENO")
+                    .queryParam("name", QueryParamFactory.NAME_CARD_UPDATE)
                     .put(Urls.URL_CARDS.toString() + "/" + idCard)
                 .then();
     }
