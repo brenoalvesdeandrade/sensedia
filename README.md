@@ -41,7 +41,7 @@
 ## Cenários de execução
 
 ````
-* Os cenários pensados para execução da automação encontram-se no arquivo Gherkin.md;  
+* Os cenários pensados para execução da automação encontram-se no arquivo /documentation/Gherkin.md;  
 ````
 
 ## Planejamento realizado
@@ -49,6 +49,6 @@
 ````
 * O planejamento aplicado ao projeto encontra-se no diretório: /documentation/images/MAPA.jpg;
 
-* Segue um fluxo macro de aplicação dos testes integrados no ambiente DEVOPS da Sensedia, diretório: /documentation/images/MAPA.jpg 
+* Segue um fluxo macro de aplicação dos testes integrados no ambiente DEVOPS da Sensedia, diretório: /documentation/images/Sensedia.jpg 
 ````
 
