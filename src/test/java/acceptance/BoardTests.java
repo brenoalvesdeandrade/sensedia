@@ -15,7 +15,7 @@ import static requests.BoardRequests.*;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class BoardTests {
 
-   ValidatableResponse response;
+   private ValidatableResponse response;
 
    @Test
     public void validate1BoardCreatedAndReturnStatusCode200(){

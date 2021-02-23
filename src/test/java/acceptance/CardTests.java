@@ -13,7 +13,7 @@ import static requests.CardRequests.*;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class CardTests {
 
-    ValidatableResponse response;
+    private ValidatableResponse response;
 
     @Test
     public void createdBordAndReturnListWithNameAfazer(){

@@ -5,7 +5,7 @@ public enum Urls {
     URL_BOARD("https://api.trello.com/1/boards"), URL_CARDS("https://api.trello.com/1/cards"),CARDS("/cards"),
     LISTS("/lists");
 
-    String url;
+    private String url;
 
     Urls(String url) {
 
